@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Warden update .NET 4.6.1 & DotNet 5.6
+title: Warden update .NET 4.6.1 & NETCoreApp
 ---
 
 Thanks to the contribution from [Mattias](https://github.com/nimatt), [Warden](https://getwarden.net) and all of it's packages have been updated to the latest version of the framework which is *.NET 4.6.1.* and accordingly the cross-platform packages have been upgraded to use the *NETCoreApp* including *DotNet 5.6* & *DNX Core 5.0*.
