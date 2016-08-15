@@ -3,7 +3,7 @@ layout: post
 title: Warden Spawn first glimpse
 ---
 
-Warden Spawn is a brand new **[repository](https://github.com/warden-stack/Warden-Spaw)** within the [Warden Stack](https://github.com/warden-stack) that will let you configure the [Warden](https://github.com/warden-stack/Warden/wiki/Warden) instance of the Warden monitoring application using the human readable configuration files.
+Warden Spawn is a brand new **[repository](https://github.com/warden-stack/Warden-Spawn)** within the [Warden Stack](https://github.com/warden-stack) that will let you configure the [Warden](https://github.com/warden-stack/Warden/wiki/Warden) instance of the Warden monitoring application using the human readable configuration files.
 
 The ultimate goal is to integrate this tool with the API and later on create a web interface that will let anyone to configure the Warden using some nice editor containing some forms with checkboxes, drop-down lists etc. which under the hood will generate the configuration object and spin up a new instance of the Warden ready to take care of your infrastructure.
 Take a look at the following sample configuration file:
